@@ -4,7 +4,7 @@ import { Text } from '@ui/shared';
 import './App.css';
 
 function App() {
-  console.log('loaded App... ')
+  console.log('Rendering App... ')
   return (
     <div className="App">
       <header className="App-header">
